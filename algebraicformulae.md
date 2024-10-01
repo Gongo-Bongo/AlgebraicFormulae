@@ -114,13 +114,13 @@ Here is a comprehensive list of **useful algebra formulas** that are often requi
    $
 
 3. **Factorization of $ x^3 + y^3 + z^3 - 3xyz $:**
-   $
-   x^3 + y^3 + z^3 - 3xyz =\\
-    (x + y + z)(x^2 + y^2 + z^2 - xy - yz - zx)
-   $
+
+   $ x^3 + y^3 + z^3 - 3xyz =$ \\
+    $(x + y + z)(x^2 + y^2 + z^2 - xy - yz - zx)$
+   
    (valid when $ x + y + z = 0 $)
 
-4. **Basic Logarithmic Identity:**
+5. **Basic Logarithmic Identity:**
    $
    \log(ab) = \log a + \log b
    $
